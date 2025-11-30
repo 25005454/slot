@@ -34,7 +34,7 @@ Execute the program using runserver command.
 </head>    
 <body>
 <center>
-<img src="/static/logo.png" height="100" width="540">
+<img src="/static/logo.png.png" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="green">
@@ -107,7 +107,7 @@ Execute the program using runserver command.
 <td>Principles of chemistry Engineering (CHE)</td>   
 </tr>
 <tr>
- <td align="center">4.</td>
+<td align="center">4.</td>
 <td align="center">19EE404</td> 
 <td>Digital Electronics (DE)</td>   
 </tr>
@@ -117,7 +117,7 @@ Execute the program using runserver command.
 '''
 
 ## OUTPUT
-![alt text](<slot time.png>)
+![alt text](<time table.png>)
 
 
 ## RESULT
